@@ -17,7 +17,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    ProfileCubit.get(context).getProfileImage();
+    //ProfileCubit.get(context).getProfileImage();
   }
 
   @override
